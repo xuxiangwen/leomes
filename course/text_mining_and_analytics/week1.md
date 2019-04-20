@@ -1,4 +1,4 @@
-.**Text Mining定义**
+.**Text Mining定义**  
 Text Mining 几乎等同于 Text Analyics： 把文本数据转化成高质量的信息或可用的知识。
 
 - 最小化人工
@@ -16,17 +16,17 @@ Text is the most expressive form of information in the sense that it can be used
 由于文本语义的丰富性和不确定性，人类可以识别其中的情感的含义。这如同，温度计来得到温度，GPS来获取位置信息。
 
 **问题**
-![text_mining_landscape](../raw/master/image/text_mining_problem.png)
+![text_mining_landscape](../../raw/master/image/text_mining_problem.png)
 
 **Landscape**
-![text_mining_landscape](../raw/master/image/text_mining_landscape.png)
+![text_mining_landscape](../../raw/master/image/text_mining_landscape.png)
 
 
 **基本概念**
 - 词汇分析（lexical analysis）: POS：97%
 - 语法分析（syntactic analysis）: Parsing：90%
 - 语义分析（semantic analysis）
-![text_mining_landscape](../raw/master/image/text_mining_basic_concept.png)
+![text_mining_landscape](../../raw/master/image/text_mining_basic_concept.png)
 
 **难度和挑战**  
 为了有效的沟通，人们在表达时：
