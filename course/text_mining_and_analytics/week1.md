@@ -1,4 +1,4 @@
-.**Text Mining定义**  
+**Text Mining定义**  
 Text Mining 几乎等同于 Text Analyics： 把文本数据转化成高质量的信息或可用的知识。
 
 - 最小化人工
