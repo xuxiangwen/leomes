@@ -17,6 +17,8 @@ Text is the most expressive form of information in the sense that it can be used
 
 **问题**
 ![text_mining_landscape](../../raw/master/image/text_mining_problem.png)
+https://github.com/xuxiangwen/leomes/raw/master/image/text_mining_basic_concept.png
+
 
 **Landscape**
 ![text_mining_landscape](../../raw/master/image/text_mining_landscape.png)
